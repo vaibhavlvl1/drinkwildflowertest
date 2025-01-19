@@ -27,7 +27,7 @@ body {
 
 .custom-navbar a {
   color: #042181;
-  font-size: 38px;
+  font-size: 30px !important;
   font-weight: 600;
   text-decoration: none;
   text-transform: uppercase;
